@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Lobster&family=Righteous&display=swap');
 .SignIn {
   margin: auto;
   width: 430px;
@@ -32,7 +33,7 @@
 }
 .Image1 {
   width: 35px; 
-  height: 30.31px;
+  height: 35px;
   left: 0px;
   top: 5px;
   position: absolute;

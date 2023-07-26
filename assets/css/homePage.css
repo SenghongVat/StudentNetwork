@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Telex&family=Tinos&family=Titan+One&display=swap');
 .HomePage {
   margin: auto;
   width: 430px;
@@ -270,9 +271,7 @@
     width: 271px; height: 82.55px; left: 52px; top: 22.34px; position: absolute;
   }
     .time2 {
-      width: 50px;
-      height: 21.37px;
-      left: 44px;
+      left: 53px;
       top: 21.37px;
       position: absolute;
       text-align: center;
@@ -284,8 +283,6 @@
       word-wrap: break-word;
     }
     .location2 {
-      width: 45px;
-      height: 21.37px;
       left: 130px;
       top: 21.37px;
       position: absolute;
@@ -298,8 +295,6 @@
       word-wrap: break-word;
     }
     .caption2 {
-      width: 271px;
-      height: 21.37px;
       left: 0px;
       top: 61.19px;
       position: absolute;
